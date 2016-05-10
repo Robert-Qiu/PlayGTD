@@ -1,0 +1,3 @@
+bin/activator clean stage
+bin/activator stage
+target/universal/stage/bin/playgtd -Dhttp.port=$PORT
